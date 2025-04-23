@@ -20,4 +20,3 @@ FERRAMENTAS PARA SOLDAGEM:
 
 Link do Projeto oficial: https://www.hackster.io/mircemk/mini-cyclone-game-on-ws2812-led-ring-and-arduino-nano-41394e
 
-Obs: Pegue um pedaço de madeira ou outro material resistente para fazer uma case para o seu projeto. 
