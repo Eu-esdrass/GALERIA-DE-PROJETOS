@@ -4,13 +4,13 @@
 
 <h3> PROJETOS QUE TEM NO REPOSITORIO ATÉ O MOMENTO: </h3>
 
-- JUMPMAN
-- JOGO DA FORCA
-- JOGO GENIUS
-- CYCLONE
-- JOGO PONG 
+    - JUMPMAN
+    - JOGO DA FORCA
+    - JOGO GENIUS
+    - CYCLONE
+    - JOGO PONG 
 
-    Me sigam no Github para ficar por dentro dos projetos que estou desenvolvendo ou em outra rede social clicando no botão abaixo.
+Me sigam no Github para ficar por dentro dos projetos que estou desenvolvendo ou em outra rede social clicando no botão abaixo.
  
 <div> 
   <a href="https://www.instagram.com/eu.esdrass?igsh=Z2MxNWFpbGloZm9o" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
