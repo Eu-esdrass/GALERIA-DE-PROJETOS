@@ -1,10 +1,10 @@
-# JOGO GENIUS FEITO COM ARDUINO
+JOGO GENIUS FEITO COM ARDUINO
 
-Materiais necessários: 
+Materiais necessários para a construção: 
 
--	Protoboard
--	4 LEDs
--	Buzzer 
--	Arduino UNO  
--	Jumpers
--	Botões (Push Button) 
+  1-	Protoboard
+  4- LEDs
+  1- Buzzer
+  1- Arduino UNO 
+  4- Botões (Push Button)
+  x- Jumpers / Fios (para fazer as conexões)
