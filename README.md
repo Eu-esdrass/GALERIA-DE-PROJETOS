@@ -2,6 +2,14 @@
 
 Galeria criada com projetos feitos com arduino e esp espalhados pela internet para fins de prototipagem pessoal e uso em sala de aula com os alunos. Todos os autores e criadores serão mecionados nas pastas dos seus projetos. 
 
+PROJETOS QUE TEM NO REPOSITORIO ATÉ O MOMENTO:
+
+- JUMPMAN
+- JOGO DA FORCA
+- JOGO GENIUS
+- CYCLONE
+- JOGO PONG 
+
     Me sigam no Github para ficar por dentro dos projetos que estou desenvolvendo ou em outra rede social clicando no botão abaixo.
  
 <div> 
