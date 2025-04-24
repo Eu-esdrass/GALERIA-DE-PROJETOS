@@ -1,8 +1,8 @@
-# GALERIA DE PROJETOS
+<h1> GALERIA DE PROJETOS</h1>
 
-Galeria criada com projetos feitos com arduino e esp espalhados pela internet para fins de prototipagem pessoal e uso em sala de aula com os alunos. Todos os autores e criadores serão mecionados nas pastas dos seus projetos. 
+<h3>Galeria criada com projetos feitos com arduino e esp espalhados pela internet para fins de prototipagem pessoal e uso em sala de aula com os alunos. Todos os autores e criadores serão mecionados nas pastas dos seus projetos. </h3>
 
-PROJETOS QUE TEM NO REPOSITORIO ATÉ O MOMENTO:
+<h3> PROJETOS QUE TEM NO REPOSITORIO ATÉ O MOMENTO: </h3>
 
 - JUMPMAN
 - JOGO DA FORCA
