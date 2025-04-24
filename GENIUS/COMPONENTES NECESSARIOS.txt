@@ -1,0 +1,10 @@
+JOGO GENIUS - ARDUINO
+
+Materiais necessários: 
+
+-	Protoboard
+-	4 LEDs
+-	Buzzer 
+-	Arduino UNO  
+-	Jumpers
+-	Botões (Push Button) 
