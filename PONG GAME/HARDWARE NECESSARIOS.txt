@@ -1,0 +1,18 @@
+HARDWARE NECESSARIOS PARA CRIAÇÃO DO JOGO PONG:
+
+    1- Arduino UNO ou Nano
+    1- Protoboard 
+    1- Modulo Matriz de LED 8x8 (Max7219)
+    1- Potenciômetro 1K
+
+SOFTWARE:
+
+    1- Arduino IDE
+
+FERRAMENTAS PARA SOLDAGEM :
+
+    1- Ferro de Solda
+    1- Estanho 
+    X- Fios ou Jumpers (para fazer as ligações)
+
+Link do Projeto oficial: https://www.squids.com.br/arduino/projetos-arduino/jogos/261-4-pong-com-matriz-de-leds-arduino-jogo-04
