@@ -1,4 +1,4 @@
-JOGO GENIUS - ARDUINO
+# JOGO GENIUS FEITO COM ARDUINO
 
 Materiais necessários: 
 
